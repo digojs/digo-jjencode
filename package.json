@@ -1,0 +1,15 @@
+{
+    "name": "digo-jjencode",
+    "version": "0.0.1",
+    "repository": "http://github.com/digojs/digo-jjencode",
+    "description": "digo 插件：使用 jjencode 加密 JS",
+    "keywords": [
+        "digo plugin",
+        "jjencode js"
+    ],
+    "license": "MIT",
+    "author": "xuld <xuld@vip.qq.com>",
+    "files": [
+        "index.js"
+    ]
+}
